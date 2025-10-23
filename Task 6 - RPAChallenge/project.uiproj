@@ -1,0 +1,6 @@
+{
+  "Name": "Input Data from Excel",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
